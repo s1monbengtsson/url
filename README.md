@@ -1,4 +1,4 @@
-# Compose your url
+# Build your URL
 ## [answer1]-[answer2]-[answer3].netlify.app
 
 1. You go at red, but stop at green. What am I?
